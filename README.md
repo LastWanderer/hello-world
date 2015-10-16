@@ -1,5 +1,4 @@
 # hello-world
-Just another startup repository
 ===============================================
 
 Welcome one and all, to the place where I play.
